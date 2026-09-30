@@ -6,7 +6,7 @@ Q.gender = "N/A"
 Q.occupation = "N/A"
 !}
 
-- @ start: Start
+- @start: Start
 
-# start
+@start
 go-to: one
