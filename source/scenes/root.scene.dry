@@ -1,9 +1,8 @@
 # ...
 new-page: true
 on-arrival: {!
-Q.name = "N/A"
-Q.gender = "N/A"
 Q.occupation = "N/A"
+Q.handle = "N/A"
 !}
 
 - @start: Start
