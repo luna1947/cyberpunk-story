@@ -1,6 +1,45 @@
-title: Scene One
 new-page: true
-tags: top
 
-This is the first scene of "Dendry-starter-pack". From this point, you can add
-further scenes and choices to flesh out your game.
+Your head is spinning. Your alarm is blaring.
+
+- @whoami: You are currently struggling to remember your own name.
+
+@whoami
+
+You sit up and reach out, finding the glass of water on the nightstand.
+
+- @ewwww: It's lukewarm with a lingering taste of rust.
+
+@ewwww
+
+Blegh. At least your tiredness has been pushed back.
+
+- @name: Everything comes to you easier.
+
+@name
+
+Including who you are.
+
+You're Natalie Sherman. You're 29, and you work at Biotechnica. You have since graduating from NCU. It'd be impossible to forget that, unless you were an idiot.
+
+- @work: It's time to get ready for work.
+
+@work
+
+As it is every morning. What to do first?
+
+
+- @check_agent: Check your Agent.
+
+@check_agent
+max-visits: 1
+
+As you check your Agent, there's two messages.
+
+A layoff notice. Biotechnica is cutting a major portion of their staff, and you happened to be a part of the unlucky bunch that got axed in the ticket pulling.
+
+You cannot afford to lose your
+
+After that, you see message from a now ex-coworker:
+
+"Heyy, Nat! Sucks to hear that you got axed!
